@@ -1,13 +1,13 @@
-package com.abhiani.project.microProject;
+package com.abhiani.project.microServicesProject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MicroProjectApplication {
+public class MicroServicesProjectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MicroProjectApplication.class, args);
+		SpringApplication.run(MicroServicesProjectApplication.class, args);
 	}
 
 }
